@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jira-online/static/css/main.bc4ac153.css",
+    "main.js": "/jira-online/static/js/main.9f5ad00f.js",
+    "static/js/787.76a0c5bf.chunk.js": "/jira-online/static/js/787.76a0c5bf.chunk.js",
+    "static/media/on-the-wind.jpg": "/jira-online/static/media/on-the-wind.62edf0bc6433f668da97.jpg",
+    "index.html": "/jira-online/index.html",
+    "main.bc4ac153.css.map": "/jira-online/static/css/main.bc4ac153.css.map",
+    "main.9f5ad00f.js.map": "/jira-online/static/js/main.9f5ad00f.js.map",
+    "787.76a0c5bf.chunk.js.map": "/jira-online/static/js/787.76a0c5bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4ac153.css",
+    "static/js/main.9f5ad00f.js"
+  ]
+}
